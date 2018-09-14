@@ -11,9 +11,9 @@ as I try to learn how to implement __A*__ search.
 
 I will try to explain the code as comments and some reasoning behind it, please bear with me. :grin:
 
-__DISCLAIMER:__ Credit goes to [redblobgames](https://www.redblobgames.com), which amazing tutorials
-and detailed explanations allowed me to have a better understanding of the theory, don't forget to visit: 
+__DISCLAIMER:__ Credit goes to [redblobgames](https://www.redblobgames.com), its amazing tutorials
+and detailed explanations allowed me to have a better grasp of the theory, don't forget to visit: 
 https://www.redblobgames.com/pathfinding/a-star/introduction.html
 
 **Select one of the following languages (more to come... :+1:):**
-* [python]()
+* [python](https://github.com/khreez/a-star-search/tree/master/python)
